@@ -4,7 +4,7 @@
 ![Languages](https://img.shields.io/github/languages/count/rujuldwivedi/misc-dev)
 ![Last Commit](https://img.shields.io/github/last-commit/rujuldwivedi/misc-dev)
 
-Welcome to **Misc-Dev (Miscellaneous Developments)**! This repository is a diverse collection of projects and code snippets created across various programming languages and technologies. It features a wide range of development topics, from AI models and computer vision to web applications and classic games.
+This repository is a diverse collection of projects and code snippets created across various programming languages and technologies. It features a wide range of development topics, from AI models and computer vision to web applications and classic games.
 
 ## 📂 Repository Overview
 
