@@ -1,4 +1,4 @@
-# 🛠️ Misc-Dev: Miscellaneous Developments 🛠️
+# 🛠️ Miscellaneous Developments 🛠️
 
 ![Repo Size](https://img.shields.io/github/repo-size/rujuldwivedi/misc-dev)
 ![Languages](https://img.shields.io/github/languages/count/rujuldwivedi/misc-dev)
