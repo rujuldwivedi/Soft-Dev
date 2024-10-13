@@ -68,9 +68,5 @@ Contributions are encouraged! To contribute:
 
 Have questions or suggestions? Reach out to me:
 
-📧 Email: [rujuldwivedi@icloud.com](mailto:rujuldwivedi@icloud.com)  
+📧 Email: [Mail](mailto:rujuldwivedi@icloud.com)  
 🔗 LinkedIn: [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)  
-
----
-
-⭐️ **If you like this repository, don't forget to give it a star! It helps others find these projects and motivates me to keep creating.**
