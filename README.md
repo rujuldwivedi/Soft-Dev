@@ -68,7 +68,7 @@ Contributions are encouraged! To contribute:
 
 Have questions or suggestions? Reach out to me:
 
-📧 Email: [rujuldwivedi@example.com](mailto:rujuldwivedi@example.com)  
+📧 Email: [rujuldwivedi@icloud.com](mailto:rujuldwivedi@icloud.com)  
 🔗 LinkedIn: [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)  
 
 ---
