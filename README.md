@@ -10,13 +10,14 @@ Welcome to **Misc-Dev (Miscellaneous Developments)**! This repository is a diver
 
 The projects in this repository include (but are not limited to) the following examples:
 
-- **Dog Vision (Computer Vision to Identify Dog Breeds)**
+- **Computer Vision Notebooks**
 - **Artificially Intelligent Models**
 - **Quant Models for Financial Analysis**
-- **Snake Game (Java)**
-- **Grade Submission System**
-- **Global Superstore Management**
-- **Assignment Submission System**
+- **Console Games (Snake)**
+- **Spring Boot Projects**
+- **Machine Learning Projects**
+- **Web Development Projects**
+- **Coding Projects and Files**
 - **CS Labs and Programming Exercises**
 
 These projects showcase a variety of skills, including deep learning, game development, financial modeling, web development with Spring Boot, and more. Each folder is organized by project, with code, datasets, and additional resources.
@@ -63,27 +64,11 @@ Contributions are encouraged! To contribute:
 2. **Create a new branch for your feature or bug fix.**
 3. **Submit a pull request with a detailed description of your changes.**
 
-## 🎨 Project Highlights
-
-![Dog Vision](https://via.placeholder.com/300x150.png?text=Dog+Vision) 
-*Deep learning model identifying dog breeds*
-
-![Snake Game](https://via.placeholder.com/300x150.png?text=Snake+Game+in+Java) 
-*Console-based Snake Game implementation*
-
-![Global Superstore](https://via.placeholder.com/300x150.png?text=Global+Superstore+App) 
-*Web app for managing a global superstore*
-
-## 📝 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## 📬 Contact
 
 Have questions or suggestions? Reach out to me:
 
 📧 Email: [rujuldwivedi@example.com](mailto:rujuldwivedi@example.com)  
-🐦 Twitter: [@RujulDwivedi](https://twitter.com/RujulDwivedi)  
 🔗 LinkedIn: [Rujul Dwivedi](https://www.linkedin.com/in/rujuldwivedi/)  
 
 ---
