@@ -28,7 +28,7 @@ To explore and use the projects, follow these steps:
 
 1. **Clone the Repository:**
    # To clone the repository, run:
-   `git clone https://github.com/rujuldwivedi/misc-dev.git`
+   `git clone https://github.com/rujuldwivedi/Misc-Dev.git`
 
 2. **Navigate to a Specific Project:**
    # Change directory to the desired project folder:
