@@ -1,0 +1,2 @@
+Model,Log Likelihood,AIC,BIC,HQIC,ar.L1 coef,ar.L1 std err,ar.L1 z,ar.L1 P>|z|,"ar.L1 [0.025, 0.975]",ma.L1 coef,ma.L1 std err,ma.L1 z,ma.L1 P>|z|,"ma.L1 [0.025, 0.975]",sigma2 coef,sigma2 std err,sigma2 z,sigma2 P>|z|,"sigma2 [0.025, 0.975]",Ljung-Box (L1) Q,Prob(Q),Jarque-Bera JB,Prob(JB),Heteroskedasticity H,Skew,Prob(H),Kurtosis
+"ARIMA(1, 1, 1)",-448.844,903.688,907.99,905.091,-0.5864,1.128,-0.52,0.603,"[-2.798, 1.625]",0.561,1.152,0.487,0.626,"[-1.697, 2.819]",171900000000.0,1.45e-11,1.19e+22,0.0,"[1.72e+11, 1.72e+11]",7.92,0.0,2.76,0.25,0.49,-0.73,0.27,3.15

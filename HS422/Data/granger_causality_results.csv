@@ -1,0 +1,33 @@
+Lags,Test Type,Test Statistic,p-value,Degrees of Freedom
+1,SSR based F test,F = 0.0002,p = 0.9900,"df_denom = 27, df_num = 1"
+1,SSR based chi2 test,chi2 = 0.0002,p = 0.9894,df = 1
+1,Likelihood ratio test,chi2 = 0.0002,p = 0.9894,df = 1
+1,Parameter F test,F = 0.0002,p = 0.9900,"df_denom = 27, df_num = 1"
+2,SSR based F test,F = 5.2913,p = 0.0125,"df_denom = 24, df_num = 2"
+2,SSR based chi2 test,chi2 = 12.7872,p = 0.0017,df = 2
+2,Likelihood ratio test,chi2 = 10.5936,p = 0.0050,df = 2
+2,Parameter F test,F = 5.2913,p = 0.0125,"df_denom = 24, df_num = 2"
+3,SSR based F test,F = 4.5514,p = 0.0131,"df_denom = 21, df_num = 3"
+3,SSR based chi2 test,chi2 = 18.2057,p = 0.0004,df = 3
+3,Likelihood ratio test,chi2 = 14.0252,p = 0.0029,df = 3
+3,Parameter F test,F = 4.5514,p = 0.0131,"df_denom = 21, df_num = 3"
+4,SSR based F test,F = 3.7018,p = 0.0228,"df_denom = 18, df_num = 4"
+4,SSR based chi2 test,chi2 = 22.2108,p = 0.0002,df = 4
+4,Likelihood ratio test,chi2 = 16.2075,p = 0.0028,df = 4
+4,Parameter F test,F = 3.7018,p = 0.0228,"df_denom = 18, df_num = 4"
+5,SSR based F test,F = 3.0511,p = 0.0427,"df_denom = 15, df_num = 5"
+5,SSR based chi2 test,chi2 = 26.4431,p = 0.0001,df = 5
+5,Likelihood ratio test,chi2 = 18.2425,p = 0.0027,df = 5
+5,Parameter F test,F = 3.0511,p = 0.0427,"df_denom = 15, df_num = 5"
+6,SSR based F test,F = 2.3175,p = 0.1015,"df_denom = 12, df_num = 6"
+6,SSR based chi2 test,chi2 = 28.9685,p = 0.0001,df = 6
+6,Likelihood ratio test,chi2 = 19.2381,p = 0.0038,df = 6
+6,Parameter F test,F = 2.3175,p = 0.1015,"df_denom = 12, df_num = 6"
+7,SSR based F test,F = 1.7597,p = 0.2111,"df_denom = 9, df_num = 7"
+7,SSR based chi2 test,chi2 = 32.8470,p = 0.0000,df = 7
+7,Likelihood ratio test,chi2 = 20.6955,p = 0.0042,df = 7
+7,Parameter F test,F = 1.7597,p = 0.2111,"df_denom = 9, df_num = 7"
+8,SSR based F test,F = 3.2718,p = 0.0830,"df_denom = 6, df_num = 8"
+8,SSR based chi2 test,chi2 = 100.3361,p = 0.0000,df = 8
+8,Likelihood ratio test,chi2 = 38.6266,p = 0.0000,df = 8
+8,Parameter F test,F = 3.2718,p = 0.0830,"df_denom = 6, df_num = 8"
