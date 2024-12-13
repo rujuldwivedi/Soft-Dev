@@ -1,4 +1,4 @@
-# DevNet
+# Software Development
 
 ![Project Banner](banner.jpeg)
 
@@ -16,7 +16,7 @@
 
 ## Overview
 
-Welcome to **DevNet**! This repository is a diverse collection of projects and code snippets created across various programming languages and technologies. It features a wide range of development topics, from AI models and computer vision to web applications and classic games. The projects in this repository include (but are not limited to) the following examples:
+Welcome to **Software Development**! This repository is a diverse collection of projects and code snippets created across various programming languages and technologies. It features a wide range of development topics, from AI models and computer vision to web applications and classic games. The projects in this repository include (but are not limited to) the following examples:
 
 - **Computer Vision Notebooks**
 - **Artificially Intelligent Models**
